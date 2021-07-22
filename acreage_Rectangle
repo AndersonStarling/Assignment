@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float acreage_Rectangle(float length, float width)
+{
+    float acreage = length * width;
+    return acreage;
+}
