@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float perimeter_Rectangle(float length, float width)
+{
+    float perimeter = (length + width) * 2;
+    return perimeter;
+}
