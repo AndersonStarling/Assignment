@@ -3,11 +3,6 @@
 
 float perimeter_Rectangle(float length, float width)
 {
-<<<<<<< HEAD
-	int a;
-=======
-	int j;
->>>>>>> Develop-Test-Input-Parameter
     float perimeter = (length + width) * 2;
     return perimeter;
 }

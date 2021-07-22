@@ -3,7 +3,6 @@
 
 float acreage_Rectangle(float length, float width)
 {
-	int a,b,c;
     float acreage = length * width;
     return acreage;
 }
