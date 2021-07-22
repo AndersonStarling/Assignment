@@ -3,6 +3,7 @@
 
 float perimeter_Rectangle(float length, float width)
 {
+	int a;
     float perimeter = (length + width) * 2;
     return perimeter;
 }
