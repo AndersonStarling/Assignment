@@ -7,6 +7,7 @@ float ChuViHcn(float a, float b)
     int b,c
     int thembien;
 	int themBien2;
+    int thembien1;
     float ChuVi = (a + b) * 2;
     return ChuVi;
 }
