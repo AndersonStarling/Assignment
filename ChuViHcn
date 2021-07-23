@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float ChuViHcn(float a, float b)
+{
+    float ChuVi = (a + b) * 2;
+    return ChuVi;
+}
