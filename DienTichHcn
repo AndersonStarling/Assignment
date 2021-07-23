@@ -3,6 +3,7 @@
 
 void DienTichHcn(float a, float b)
 {
+    int tinhnang1;
     float dienTich = a * b;
     return dienTich;
 }
