@@ -5,5 +5,7 @@ float acreage_Rectangle(float length, float width)
 {
     int a,b,c;
     float acreage = length * width;
+    printf("test program);
+	printf("test case 1);
     return acreage;
 }
