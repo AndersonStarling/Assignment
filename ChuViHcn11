@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+float ChuViHcn(float a, float b)
+{
+    int a,b;
+    int b,c
+    int thembien15;
+	int tinhnang1;
+    float ChuVi = (a + b) * 2;
+    return ChuVi;
+}
